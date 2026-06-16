@@ -1,0 +1,19 @@
+Rute,Jalur,Status,Margin %,Rekomendasi
+R02,Ketapang - Gilimanuk,Wajib,-58.8,Tetap jalan (wajib); tekan biaya / sesuaikan tarif
+R03,Padangbai - Benoa,Wajib,-55.7,Tetap jalan (wajib); efisiensi biaya operasi
+R01,Merak - Bakauheni,Wajib,76.2,Tambah kapal ke-2 - rute padat & paling untung
+R14,Tanjung Priok - Panjang,Rugi,-282.8,Hentikan / realokasi kapal
+R13,Belawan - Batu Ampar,Rugi,-186.8,Hentikan / realokasi kapal
+R15,Tegal - Tanjung Emas,Rugi,-119.0,Hentikan / rancang ulang
+R05,Tanjung Emas - Tanjung Perak,Rugi,-19.3,Ganti ke kapal Passenger - pembatalan 54% turun ke ~2%
+R12,Dumai - Batu Ampar,Rugi,-12.9,Rancang ulang (ganti kelas kapal)
+R08,Cirebon - Tanjung Emas,Rugi,-2.3,Pantau; tekan biaya
+R09,Panjang - Boom Baru,Untung,31.9,Pertahankan
+R10,Boom Baru - Batu Ampar,Untung,35.8,Pertahankan
+R16,Tuban - Tanjung Perak,Untung,43.8,"Pertahankan, pantau"
+R06,Tanjung Priok - Tanjung Perak,Untung,44.2,Kurangi jadi 4x/minggu agar cukup 1 kapal
+R07,Tanjung Perak - Benoa,Untung,47.2,"Pertahankan, pantau"
+R11,Batu Ampar - Tanjung Pinang,Untung,51.4,Tambah frekuensi - permintaan tertekan (sering penuh)
+R04,Tanjung Priok - Tanjung Emas,Untung,76.7,Pertahankan; jaga efisiensi
+BARU-1,Tanjung Priok - Boom Baru,Usulan,,"Buka (pilot) - margin positif terkuat (+4,2 M/bln)"
+BARU-2,Tanjung Emas - Panjang,Usulan,,"Buka (pilot) - margin positif (+3,1 M/bln)"

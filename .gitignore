@@ -1,0 +1,17 @@
+claude.md
+plans/
+fix-plan-template.md
+build-plan-template.md
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# PDF pribadi (bahan presentasi, bukan deliverable submit)
+reports/
